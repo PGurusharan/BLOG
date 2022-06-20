@@ -76,3 +76,40 @@ input
     text-shadow: none;
 
 }
+
+
+.BOOKS{
+
+    cursor : pointer;
+
+}
+
+.BOOKS hr {
+
+    margin: bottom 10px;
+
+
+
+}
+
+.modal-content {
+
+    margin-top: 100px;
+
+}
+
+.img-modal {
+
+    display: inline-block;
+}
+.p_modal {
+
+    margin-top: 10px;
+
+}
+
+.modal-body{
+
+    text-align: center ;
+}
+
